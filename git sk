@@ -1,0 +1,5 @@
+C.  A pod is a collection of one or more application containers.The pod is an         additional level of abstraction that provides shared storage (volumes), IP address, communication between containers, and hosts other information about how to run application containers.
+ 
+D. Delete is a SQL command that removes one or multiple rows from a table using conditions.
+  Truncate is a SQL command that removes all the rows from a table without using any condition.
+
