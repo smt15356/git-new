@@ -1,0 +1,4 @@
+4.A.
+    Issue is used to track nonwork project elements that can affect wok getting done.by default,they don't appear on any backlogs or board.
+
+ B.A node is a worker machine in kubernets and it may be either or a physical machine,depending on the cluster.every node is managed by the control plane.
